@@ -1,7 +1,7 @@
 # 🦈 Xir Loader
 
 <p align="center">
-  <img src="Banners/lateibanner.png" alt="Xir Loader Banner" width="600"/>
+  <img src="lateibanner.png" alt="Xir Loader Banner" width="600"/>
 </p>
 
 <p align="center">
@@ -88,15 +88,6 @@ To hide itself from memory scanners, Xir runs in RAM under a standard Python pro
 
 The project assets include professional high-quality custom wallpapers and banners that you can find under the following directories:
 
-### Banners
-* **Latei Banner 1 (Main Visual):** `Banners/lateibanner.png`
-* **Latei Banner 2 (Alternative):** `Banners/lateibanner2.png`
-
-### Wallpapers
-* **Latei Wallpaper 1:** `Wlpp/lateiwallpaper.png`
-* **Latei Wallpaper 2:** `Wlpp/lateiwallpaper2.png`
-* **Latei Wallpaper 3:** `Wlpp/lateiwallpaper3.png`
-
 ---
 
 ## ・Usage & Configuration
@@ -109,6 +100,15 @@ For full execution guidelines and options, visit the detailed documentation page
 ## ・Disclaimer
 
 This software is developed strictly for **educational, research, and personal security analysis purposes**. Any usage of this tool in violation of third-party platforms or game terms of service rests solely with the end user. The developer (Latei) accepts no responsibility for any misuse.
+
+### Banners
+* **Latei Banner 1 (Main Visual):** `lateibanner.png`
+* **Latei Banner 2 (Alternative):** `lateibanner2.png`
+
+### Wallpapers
+* **Latei Wallpaper 1:** `lateiwallpaper.png`
+* **Latei Wallpaper 2:** `lateiwallpaper2.png`
+* **Latei Wallpaper 3:** `lateiwallpaper3.png`
 
 ---
 <p align="center">Developed with ❤️ by <b>Latei</b></p>
