@@ -84,12 +84,6 @@ To hide itself from memory scanners, Xir runs in RAM under a standard Python pro
 
 ---
 
-## ・Wallpapers and Banners Showcase
-
-The project assets include professional high-quality custom wallpapers and banners that you can find under the following directories:
-
----
-
 ## ・Usage & Configuration
 
 For full execution guidelines and options, visit the detailed documentation page:
@@ -101,6 +95,10 @@ For full execution guidelines and options, visit the detailed documentation page
 
 This software is developed strictly for **educational, research, and personal security analysis purposes**. Any usage of this tool in violation of third-party platforms or game terms of service rests solely with the end user. The developer (Latei) accepts no responsibility for any misuse.
 
+---
+## ・Wallpapers and Banners Showcase
+
+The project assets include professional high-quality custom wallpapers and banners that you can find under the following directories:
 ### Banners
 * **Latei Banner 1 (Main Visual):** `lateibanner.png`
 * **Latei Banner 2 (Alternative):** `lateibanner2.png`
