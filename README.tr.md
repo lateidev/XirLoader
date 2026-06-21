@@ -1,7 +1,7 @@
 # 🦈 Xir Loader
 
 <p align="center">
-  <img src="Banners/lateibanner.png" alt="Xir Loader Banner" width="600"/>
+  <img src="Banners/lateibannerx.png" alt="Xir Loader Banner" width="600"/>
 </p>
 
 <p align="center">
