@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="latei.gif" width="600" height="500">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform Support" />
   <img src="https://img.shields.io/badge/Interface-CustomTkinter-black?style=for-the-badge" alt="UI Framework" />
